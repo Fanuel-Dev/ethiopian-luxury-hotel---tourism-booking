@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@300;400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Ethiopian Flag Heritage Colors (Luxury toned) */
+  --color-heritage-gold: #cfa851; /* Elegant deep warm gold */
+  --color-heritage-gold-light: #f5eacf;
+  --color-heritage-green: #1c3d27; /* Forest green */
+  --color-heritage-green-light: #2c593b;
+  --color-heritage-red: #8b2520; /* Imperial royal red */
+  --color-heritage-red-light: #ab3530;
+  --color-earth-dark: #12100e; /* Deep obsidian charcoal */
+  --color-earth-sand: #faf6f0; /* Elegant soft alabaster */
+  --color-earth-clay: #221d19; /* Clay-tone dark gray */
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.glass-panel-dark {
+  background: rgba(18, 16, 14, 0.75);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(207, 168, 81, 0.15);
+}
+
+.glass-panel-light {
+  background: rgba(250, 246, 240, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(207, 168, 81, 0.12);
+}
+
+/* Habesha Pattern Background Overlays */
+.habesha-pattern {
+  background-image: radial-gradient(circle at 1px 1px, rgba(207, 168, 81, 0.15) 1px, transparent 0);
+  background-size: 16px 16px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #12100e;
+}
+::-webkit-scrollbar-thumb {
+  background: #cfa851;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b28d3e;
+}
+

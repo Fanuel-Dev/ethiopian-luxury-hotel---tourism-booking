@@ -1,0 +1,6 @@
+{
+  "name": "Ethiopian Luxury Hotel & Tourism Booking",
+  "description": "World-class luxury Ethiopian hotel and tourism booking landing page inspired by Ethiopian culture, heritage, and natural beauty. Built with React, Tailwind CSS, Framer Motion, and server-side Gemini AI Travel Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
