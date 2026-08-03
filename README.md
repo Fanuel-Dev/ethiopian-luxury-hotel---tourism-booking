@@ -30,19 +30,19 @@
 <div align="center">
 
 ### 🌟 Hero Section & Booking Portal
-![Hero Banner](https://raw.githubusercontent.com/connect-ethiopia/elysium-abyssinia/main/public/screenshots/hero.jpg)
+![Hero Banner](screenshots/1.png)
 
 ### 📅 Multi-Step Reservation Engine
-![Booking Modal](https://raw.githubusercontent.com/connect-ethiopia/elysium-abyssinia/main/public/screenshots/booking.jpg)
+![Booking Modal](screenshots/2.png)
 
 ### 🏨 Luxury Suites & Accommodation Grid
-![Suites Showcase](https://raw.githubusercontent.com/connect-ethiopia/elysium-abyssinia/main/public/screenshots/suites.jpg)
+![Suites Showcase](screenshots/3.png)
 
 ### 🗺️ Interactive Destination Coordinates Map
-![Map Telemetry](https://raw.githubusercontent.com/connect-ethiopia/elysium-abyssinia/main/public/screenshots/map.jpg)
+![Map Telemetry](screenshots/4.png)
 
 ### 🍽️ Habesha Culinary Artistry & Gursha Table Booking
-![Dining Section](https://raw.githubusercontent.com/connect-ethiopia/elysium-abyssinia/main/public/screenshots/dining.jpg)
+![Dining Section](screenshots/5.png)
 
 </div>
 
